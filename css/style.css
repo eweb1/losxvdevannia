@@ -588,7 +588,7 @@ img.logo-white-bg {
 #homeslider-wrap h1 {
  font-size:45px;
  font-weight:400;
- font-family:Magic Story,Arial,sans-serif;
+ font-family:Glacial Indifference,Arial,sans-serif;
  text-transform:uppercase
 }
 #homeslider-wrap p {
@@ -602,7 +602,7 @@ img.logo-white-bg {
 }
 #homeslider-wrap h2 {
  font-size:100px;
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  margin-top:-5px;
  color:#fff;
  font-weight:400
@@ -645,7 +645,7 @@ img.logo-white-bg {
  }
 }
 #FRASESEC .headline {
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  font-size:100px;
  text-align:center;
  color:#fff;
@@ -796,7 +796,7 @@ img.logo-white-bg {
  padding-bottom:20px
 }
 #couple-header.onepage .headline {
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  font-size:45px;
  font-weight:700
 }
@@ -933,7 +933,7 @@ img.logo-white-bg {
 }
 .story-timeline-1 h3,
 .story-timeline h3 {
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  font-size:38px;
  text-align:left
 }
@@ -1032,7 +1032,7 @@ img.logo-white-bg {
  text-align:center
 }
 #wedding-header.wedding-header-single-page .headline {
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  font-size:45px;
  font-weight:700
 }
@@ -1108,7 +1108,7 @@ img.logo-white-bg {
  }
 }
 .dresscode .headline {
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  font-size:45px;
  font-weight:700
 }
@@ -1135,7 +1135,7 @@ img.logo-white-bg {
  position:relative;
  text-align:center;
  z-index:999998;
- background:#c2858c;
+ background:#785d91e0;
  cursor:pointer;
  font-family:Roboto,segoe ui,Frutiger,frutiger linotype,dejavu sans,helvetica neue,Arial,sans-serif;
  color:#fff!important;
@@ -1186,13 +1186,13 @@ img.logo-white-bg {
  padding:20px 30px
 }
 #countdown .wraper-clock .value {
- font:normal 80px/40px "WC Mano Negra Bta";
+ font:normal 80px/40px "Playlist";
  color:#fff;
  padding-bottom:18px;
  min-width:115px
 }
 #countdown .wraper-clock .value-label {
- font:normal 28px/28px "WC Mano Negra Bta"
+ font:normal 28px/28px "Playlist"
 }
 #countdown .sep {
  display:none
@@ -1215,7 +1215,7 @@ img.logo-white-bg {
  font-size:14px
 }
 #countdown .headline {
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  font-size:45px;
  font-weight:700;
  text-align:center
@@ -1241,11 +1241,11 @@ img.logo-white-bg {
   font-size:15px
  }
  #countdown .wraper-clock .value {
-  font:normal 29px/29px "WC Mano Negra Bta";
+  font:normal 29px/29px "Playlist";
   min-width:70px
  }
  #countdown .wraper-clock .value-label {
-  font:normal 22px/28px "WC Mano Negra Bta"
+  font:normal 22px/28px "Playlist"
  }
  #countdown .countdown-box .strike>span:before,
  #countdown .countdown-box .strike>span:after {
@@ -1278,7 +1278,7 @@ img.logo-white-bg {
  text-align:center
 }
 #program.onepage .headline {
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  font-size:45px;
  font-weight:700
 }
@@ -1441,7 +1441,7 @@ img.logo-white-bg {
  text-align:center
 }
 #blockquote .bckuote-text {
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  font-size:45px;
  line-height:45px;
  color:#fff;
@@ -1579,7 +1579,7 @@ img.logo-white-bg {
 #suscribe-box .reserve-subheadline {
  padding-bottom:20px;
  padding-top:20px;
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  font-size:35px;
  line-height:35px
 }
@@ -1635,7 +1635,7 @@ img.logo-white-bg {
  padding:80px
 }
 .titulo {
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  font-size:45px;
  font-weight:700;
  color:#000
@@ -1696,7 +1696,7 @@ img.logo-white-bg {
  font-size:14px
 }
 #portfolio .headline {
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  font-size:45px;
  font-weight:700;
  text-align:center;
@@ -1739,12 +1739,12 @@ img.logo-white-bg {
 #about .about-section-wraper h1 {
  font-size:45px;
  font-weight:400;
- font-family:Magic Story,Arial,sans-serif;
+ font-family:Glacial Indifference,Arial,sans-serif;
  text-transform:uppercase
 }
 #about .about-section-wraper h2 {
  font-size:100px;
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  margin-top:-5px;
  color:#fff;
  font-weight:400
@@ -1787,7 +1787,7 @@ img.logo-white-bg {
  background-color:#fff
 }
 #image-gallery-header .headline {
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  font-size:45px;
  font-weight:700;
  text-align:center
@@ -1819,12 +1819,12 @@ img.logo-white-bg {
 #image-gallery-slider h1 {
  font-size:45px;
  font-weight:400;
- font-family:Magic Story,Arial,sans-serif;
+ font-family:Glacial Indifference,Arial,sans-serif;
  text-transform:uppercase
 }
 #image-gallery-slider h2 {
  font-size:100px;
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  margin-top:-5px;
  color:#fff;
  font-weight:400
@@ -1866,12 +1866,12 @@ img.logo-white-bg {
 #location .main-ceremony h1 {
  font-size:45px;
  font-weight:400;
- font-family:Magic Story,Arial,sans-serif;
+ font-family:Glacial Indifference,Arial,sans-serif;
  text-transform:uppercase
 }
 #location .main-ceremony h2 {
  font-size:100px;
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  margin-top:-5px;
  color:#cebb78;
  font-weight:400
@@ -1972,7 +1972,7 @@ img.logo-white-bg {
  margin-left:0
 }
 #accomodation .headline {
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  font-size:45px;
  font-weight:700;
  text-align:center
@@ -2036,7 +2036,7 @@ img.logo-white-bg {
  }
 }
 #bridsmaid-groosman-header .headline {
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  font-size:45px;
  font-weight:700;
  text-align:center;
@@ -2141,7 +2141,7 @@ img.logo-white-bg {
 #gift-registry-image h1 {
  font-size:45px;
  font-weight:400;
- font-family:Magic Story,Arial,sans-serif;
+ font-family:Glacial Indifference,Arial,sans-serif;
  text-transform:uppercase
 }
 #gift-registry-image p {
@@ -2171,7 +2171,7 @@ img.logo-white-bg {
  }
 }
 #gift-registry .headline {
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  font-size:45px;
  font-weight:700;
  text-align:center
@@ -2298,7 +2298,7 @@ img.logo-white-bg {
  padding:150px 0 0
 }
 #blog-header .headline {
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  font-size:45px;
  font-weight:700;
  text-align:center
@@ -2316,7 +2316,7 @@ img.logo-white-bg {
 #blog-image h1 {
  font-size:45px;
  font-weight:400;
- font-family:Magic Story,Arial,sans-serif;
+ font-family:Glacial Indifference,Arial,sans-serif;
  text-transform:uppercase
 }
 #blog-image .about-section-wraper {
@@ -2362,7 +2362,7 @@ img.logo-white-bg {
  color:#fff;
  font-weight:400;
  font-size:85px;
- font-family:WC Mano Negra Bta
+ font-family:Playlist
 }
 #blog-content-slider {
  margin-top:80px
@@ -2574,12 +2574,12 @@ img.logo-white-bg {
 #reserve-image .about-section-wraper h1 {
  font-size:45px;
  font-weight:400;
- font-family:Magic Story,Arial,sans-serif;
+ font-family:Glacial Indifference,Arial,sans-serif;
  text-transform:uppercase
 }
 #reserve-image .about-section-wraper h2 {
  font-size:100px;
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  margin-top:-5px;
  color:#cebb78;
  font-weight:400
@@ -2601,12 +2601,12 @@ img.logo-white-bg {
 #reserve-image-background .about-section-wraper h1 {
  font-size:45px;
  font-weight:400;
- font-family:Magic Story,Arial,sans-serif;
+ font-family:Glacial Indifference,Arial,sans-serif;
  text-transform:uppercase
 }
 #reserve-image-background .about-section-wraper h2 {
  font-size:75px;
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  margin-top:-5px;
  color:#fff;
  font-weight:400;
@@ -2675,7 +2675,7 @@ img.logo-white-bg {
  font-size:65px;
  line-height:50px;
  text-align:center;
- font-family:WC Mano Negra Bta
+ font-family:Playlist
 }
 #rsrv-image-box .subtitle {
  font-size:18px;
@@ -3296,18 +3296,18 @@ footer {
 #footer h3 {
  font-size:40px;
  font-weight:400;
- font-family:Magic Story,Arial,sans-serif;
+ font-family:Glacial Indifference,Arial,sans-serif;
  text-transform:uppercase
 }
 #footer h2 {
  font-size:80px;
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  margin-top:-5px;
  color:#fff;
  font-weight:400
 }
 #footer #withlove {
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  -ms-transform:rotate(-10deg);
  -webkit-transform:rotate(-10deg);
  transform:rotate(-10deg);
@@ -3396,13 +3396,13 @@ footer {
 #menu-header .menu-section-wraper h1 {
  font-size:35px;
  font-weight:400;
- font-family:Magic Story,Arial,sans-serif;
+ font-family:Glacial Indifference,Arial,sans-serif;
  text-transform:uppercase;
  color:#101010
 }
 #menu-header .menu-section-wraper h2 {
  font-size:65px;
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  margin-top:-5px;
  color:#101010;
  font-weight:400
@@ -3422,7 +3422,7 @@ footer {
  margin:40px 0 80px
 }
 .menu-title {
- font-family:WC Mano Negra Bta;
+ font-family:Playlist;
  font-size:40px;
  font-weight:700;
  text-align:center;
