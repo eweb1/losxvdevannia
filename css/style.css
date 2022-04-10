@@ -1186,13 +1186,13 @@ img.logo-white-bg {
  padding:20px 30px
 }
 #countdown .wraper-clock .value {
- font:normal 80px/40px "'Playlist'";
+ font:normal 80px/40px "Playlist";
  color:#fff;
  padding-bottom:18px;
  min-width:115px
 }
 #countdown .wraper-clock .value-label {
- font:normal 28px/28px "'Playlist'"
+ font:normal 28px/28px "Playlist"
 }
 #countdown .sep {
  display:none
@@ -1241,11 +1241,11 @@ img.logo-white-bg {
   font-size:15px
  }
  #countdown .wraper-clock .value {
-  font:normal 29px/29px "'Playlist'";
+  font:normal 29px/29px "Playlist";
   min-width:70px
  }
  #countdown .wraper-clock .value-label {
-  font:normal 22px/28px "'Playlist'"
+  font:normal 22px/28px "Playlist"
  }
  #countdown .countdown-box .strike>span:before,
  #countdown .countdown-box .strike>span:after {
