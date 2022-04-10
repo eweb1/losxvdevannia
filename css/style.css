@@ -5,7 +5,7 @@ body {
  padding:0
 }
 body {
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  font-size:16px;
  color:#101010;
  font-weight:400;
@@ -24,7 +24,7 @@ h2,
 h3,
 h4,
 h5 {
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  word-wrap:break-word
 }
 h2,
@@ -44,7 +44,7 @@ a:visited {
 }
 .btn {
  font-weight:400;
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  text-transform:uppercase;
  letter-spacing:.1em;
  padding:6px 12px;
@@ -70,7 +70,7 @@ a:visited {
 .btn-medium-v2 {
  margin-top:20px;
  padding:10px 12px;
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  color:#333;
  background-color:transparent;
  border:2px solid #eaeaea;
@@ -81,7 +81,7 @@ a:visited {
 .btn-medium-rsvp {
  margin-top:20px;
  padding:10px 12px;
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  color:#101010;
  background-color:transparent;
  border:2px solid #eaeaea;
@@ -248,7 +248,7 @@ img.logo-white-bg {
  position:absolute;
  padding:0;
  line-height:24px;
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  color:#515252;
  font-weight:400;
  font-style:normal;
@@ -392,7 +392,7 @@ img.logo-white-bg {
 .navbar-color {
  background-color:#fff;
  height:90px;
- font-family:Montserrat
+ font-family:Glacial Indifference
 }
 .navbar-transparent {
  background-color:transparent;
@@ -403,7 +403,7 @@ img.logo-white-bg {
  height:auto!important
 }
 .navbar-transparent {
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  font-weight:700;
  background:rgba(255,255,255,.1);
  border-bottom:1px solid transparent
@@ -588,7 +588,7 @@ img.logo-white-bg {
 #homeslider-wrap h1 {
  font-size:45px;
  font-weight:400;
- font-family:Josefin Slab,Arial,sans-serif;
+ font-family:Glacial Indifference,Arial,sans-serif;
  text-transform:uppercase
 }
 #homeslider-wrap p {
@@ -602,7 +602,7 @@ img.logo-white-bg {
 }
 #homeslider-wrap h2 {
  font-size:100px;
- font-family:Great Vibes;
+ font-family:Playlist Script;
  margin-top:-5px;
  color:#fff;
  font-weight:400
@@ -645,7 +645,7 @@ img.logo-white-bg {
  }
 }
 #FRASESEC .headline {
- font-family:Great Vibes;
+ font-family:Playlist Script;
  font-size:100px;
  text-align:center;
  color:#fff;
@@ -790,18 +790,18 @@ img.logo-white-bg {
  }
 }
 #couple-header .headline {
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  font-size:25px;
  text-align:center;
  padding-bottom:20px
 }
 #couple-header.onepage .headline {
- font-family:Great Vibes;
+ font-family:Playlist Script;
  font-size:45px;
  font-weight:700
 }
 #couple-header .headline-v2 {
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  font-size:25px;
  text-align:center;
  padding-bottom:20px
@@ -867,12 +867,12 @@ img.logo-white-bg {
  padding:10px 40px 40px
 }
 #couple-info .panel-inner-head {
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  font-size:24px;
  padding:20px 0 10px
 }
 #couple-info .panel-inner-head-v2 {
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  font-size:16px;
  padding-bottom:10px
 }
@@ -933,7 +933,7 @@ img.logo-white-bg {
 }
 .story-timeline-1 h3,
 .story-timeline h3 {
- font-family:Great Vibes;
+ font-family:Playlist Script;
  font-size:38px;
  text-align:left
 }
@@ -999,7 +999,7 @@ img.logo-white-bg {
 #couple-timeline .timeline .fecha {
  color:#101010;
  font-weight:400;
- font-family:Montserrat
+ font-family:Glacial Indifference
 }
 @media(max-width:767px) {
  #couple-timeline .timeline {
@@ -1026,13 +1026,13 @@ img.logo-white-bg {
  }
 }
 #wedding-header .headline {
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  font-size:25px;
  padding:10px 0 20px;
  text-align:center
 }
 #wedding-header.wedding-header-single-page .headline {
- font-family:Great Vibes;
+ font-family:Playlist Script;
  font-size:45px;
  font-weight:700
 }
@@ -1082,7 +1082,7 @@ img.logo-white-bg {
  background-color:#f9f9f9
 }
 #wedding-info .wraper-we h3 {
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  font-size:30px;
  text-transform:uppercase;
  font-weight:700;
@@ -1108,7 +1108,7 @@ img.logo-white-bg {
  }
 }
 .dresscode .headline {
- font-family:Great Vibes;
+ font-family:Playlist Script;
  font-size:45px;
  font-weight:700
 }
@@ -1135,7 +1135,7 @@ img.logo-white-bg {
  position:relative;
  text-align:center;
  z-index:999998;
- background:#785d91e0;
+ background:#c2858c;
  cursor:pointer;
  font-family:Roboto,segoe ui,Frutiger,frutiger linotype,dejavu sans,helvetica neue,Arial,sans-serif;
  color:#fff!important;
@@ -1186,13 +1186,13 @@ img.logo-white-bg {
  padding:20px 30px
 }
 #countdown .wraper-clock .value {
- font:normal 80px/40px "Great Vibes";
+ font:normal 80px/40px "Playlist Script";
  color:#fff;
  padding-bottom:18px;
  min-width:115px
 }
 #countdown .wraper-clock .value-label {
- font:normal 28px/28px "Great Vibes"
+ font:normal 28px/28px "Playlist Script"
 }
 #countdown .sep {
  display:none
@@ -1204,7 +1204,7 @@ img.logo-white-bg {
  font-size:16px
 }
 #countdown .controls {
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  letter-spacing:2px;
  text-align:center;
  font-weight:700;
@@ -1215,7 +1215,7 @@ img.logo-white-bg {
  font-size:14px
 }
 #countdown .headline {
- font-family:Great Vibes;
+ font-family:Playlist Script;
  font-size:45px;
  font-weight:700;
  text-align:center
@@ -1241,11 +1241,11 @@ img.logo-white-bg {
   font-size:15px
  }
  #countdown .wraper-clock .value {
-  font:normal 29px/29px "Great Vibes";
+  font:normal 29px/29px "Playlist Script";
   min-width:70px
  }
  #countdown .wraper-clock .value-label {
-  font:normal 22px/28px "Great Vibes"
+  font:normal 22px/28px "Playlist Script"
  }
  #countdown .countdown-box .strike>span:before,
  #countdown .countdown-box .strike>span:after {
@@ -1272,25 +1272,25 @@ img.logo-white-bg {
  }
 }
 #program .headline {
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  font-size:25px;
  padding-bottom:20px;
  text-align:center
 }
 #program.onepage .headline {
- font-family:Great Vibes;
+ font-family:Playlist Script;
  font-size:45px;
  font-weight:700
 }
 #program.v2 .headline {
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  font-size:25px;
  text-align:left;
  font-weight:400;
  margin:0 0 20px
 }
 #program.v3 .headline {
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  font-size:25px;
  text-align:center;
  font-weight:400;
@@ -1441,7 +1441,7 @@ img.logo-white-bg {
  text-align:center
 }
 #blockquote .bckuote-text {
- font-family:Great Vibes;
+ font-family:Playlist Script;
  font-size:45px;
  line-height:45px;
  color:#fff;
@@ -1579,7 +1579,7 @@ img.logo-white-bg {
 #suscribe-box .reserve-subheadline {
  padding-bottom:20px;
  padding-top:20px;
- font-family:Great Vibes;
+ font-family:Playlist Script;
  font-size:35px;
  line-height:35px
 }
@@ -1635,7 +1635,7 @@ img.logo-white-bg {
  padding:80px
 }
 .titulo {
- font-family:Great Vibes;
+ font-family:Playlist Script;
  font-size:45px;
  font-weight:700;
  color:#000
@@ -1689,14 +1689,14 @@ img.logo-white-bg {
 .more-images {
  padding-top:40px;
  padding-bottom:20px;
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  letter-spacing:4px;
  text-align:center;
  font-weight:700;
  font-size:14px
 }
 #portfolio .headline {
- font-family:Great Vibes;
+ font-family:Playlist Script;
  font-size:45px;
  font-weight:700;
  text-align:center;
@@ -1739,12 +1739,12 @@ img.logo-white-bg {
 #about .about-section-wraper h1 {
  font-size:45px;
  font-weight:400;
- font-family:Josefin Slab,Arial,sans-serif;
+ font-family:Glacial Indifference,Arial,sans-serif;
  text-transform:uppercase
 }
 #about .about-section-wraper h2 {
  font-size:100px;
- font-family:Great Vibes;
+ font-family:Playlist Script;
  margin-top:-5px;
  color:#fff;
  font-weight:400
@@ -1787,7 +1787,7 @@ img.logo-white-bg {
  background-color:#fff
 }
 #image-gallery-header .headline {
- font-family:Great Vibes;
+ font-family:Playlist Script;
  font-size:45px;
  font-weight:700;
  text-align:center
@@ -1819,12 +1819,12 @@ img.logo-white-bg {
 #image-gallery-slider h1 {
  font-size:45px;
  font-weight:400;
- font-family:Josefin Slab,Arial,sans-serif;
+ font-family:Glacial Indifference,Arial,sans-serif;
  text-transform:uppercase
 }
 #image-gallery-slider h2 {
  font-size:100px;
- font-family:Great Vibes;
+ font-family:Playlist Script;
  margin-top:-5px;
  color:#fff;
  font-weight:400
@@ -1866,12 +1866,12 @@ img.logo-white-bg {
 #location .main-ceremony h1 {
  font-size:45px;
  font-weight:400;
- font-family:Josefin Slab,Arial,sans-serif;
+ font-family:Glacial Indifference,Arial,sans-serif;
  text-transform:uppercase
 }
 #location .main-ceremony h2 {
  font-size:100px;
- font-family:Great Vibes;
+ font-family:Playlist Script;
  margin-top:-5px;
  color:#cebb78;
  font-weight:400
@@ -1972,7 +1972,7 @@ img.logo-white-bg {
  margin-left:0
 }
 #accomodation .headline {
- font-family:Great Vibes;
+ font-family:Playlist Script;
  font-size:45px;
  font-weight:700;
  text-align:center
@@ -2036,7 +2036,7 @@ img.logo-white-bg {
  }
 }
 #bridsmaid-groosman-header .headline {
- font-family:Great Vibes;
+ font-family:Playlist Script;
  font-size:45px;
  font-weight:700;
  text-align:center;
@@ -2141,7 +2141,7 @@ img.logo-white-bg {
 #gift-registry-image h1 {
  font-size:45px;
  font-weight:400;
- font-family:Josefin Slab,Arial,sans-serif;
+ font-family:Glacial Indifference,Arial,sans-serif;
  text-transform:uppercase
 }
 #gift-registry-image p {
@@ -2171,7 +2171,7 @@ img.logo-white-bg {
  }
 }
 #gift-registry .headline {
- font-family:Great Vibes;
+ font-family:Playlist Script;
  font-size:45px;
  font-weight:700;
  text-align:center
@@ -2226,7 +2226,7 @@ img.logo-white-bg {
  box-shadow:4px 6px 12px 0 #545454
 }
 .textRegalo {
- font-family:montserrat;
+ font-family:Glacial Indifference;
  font-size:25px;
  text-align:left;
  margin-left:30px;
@@ -2263,7 +2263,7 @@ img.logo-white-bg {
  margin-top:32px
 }
 .cbu {
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  padding:15px
 }
 #map {
@@ -2298,7 +2298,7 @@ img.logo-white-bg {
  padding:150px 0 0
 }
 #blog-header .headline {
- font-family:Great Vibes;
+ font-family:Playlist Script;
  font-size:45px;
  font-weight:700;
  text-align:center
@@ -2316,7 +2316,7 @@ img.logo-white-bg {
 #blog-image h1 {
  font-size:45px;
  font-weight:400;
- font-family:Josefin Slab,Arial,sans-serif;
+ font-family:Glacial Indifference,Arial,sans-serif;
  text-transform:uppercase
 }
 #blog-image .about-section-wraper {
@@ -2362,7 +2362,7 @@ img.logo-white-bg {
  color:#fff;
  font-weight:400;
  font-size:85px;
- font-family:Great Vibes
+ font-family:Playlist Script
 }
 #blog-content-slider {
  margin-top:80px
@@ -2574,12 +2574,12 @@ img.logo-white-bg {
 #reserve-image .about-section-wraper h1 {
  font-size:45px;
  font-weight:400;
- font-family:Josefin Slab,Arial,sans-serif;
+ font-family:Glacial Indifference,Arial,sans-serif;
  text-transform:uppercase
 }
 #reserve-image .about-section-wraper h2 {
  font-size:100px;
- font-family:Great Vibes;
+ font-family:Playlist Script;
  margin-top:-5px;
  color:#cebb78;
  font-weight:400
@@ -2601,12 +2601,12 @@ img.logo-white-bg {
 #reserve-image-background .about-section-wraper h1 {
  font-size:45px;
  font-weight:400;
- font-family:Josefin Slab,Arial,sans-serif;
+ font-family:Glacial Indifference,Arial,sans-serif;
  text-transform:uppercase
 }
 #reserve-image-background .about-section-wraper h2 {
  font-size:75px;
- font-family:Great Vibes;
+ font-family:Playlist Script;
  margin-top:-5px;
  color:#fff;
  font-weight:400;
@@ -2675,7 +2675,7 @@ img.logo-white-bg {
  font-size:65px;
  line-height:50px;
  text-align:center;
- font-family:Great Vibes
+ font-family:Playlist Script
 }
 #rsrv-image-box .subtitle {
  font-size:18px;
@@ -2772,7 +2772,7 @@ img.logo-white-bg {
  box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 8px #fff
 }
 #reserve-form label {
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  display:inline-block;
  max-width:100%;
  margin-bottom:10px;
@@ -2964,7 +2964,7 @@ a.expand-v2 {
 }
 .caption-subheader-v2 {
  color:#fff;
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  font-weight:400;
  width:120px;
  background-color:#e1b6a0;
@@ -2982,7 +2982,7 @@ a.expand-v2 {
 }
 .caption-subheader-v3 {
  color:#fff;
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  font-weight:400;
  width:130px;
  background-color:#e1b6a0;
@@ -3296,18 +3296,18 @@ footer {
 #footer h3 {
  font-size:40px;
  font-weight:400;
- font-family:Josefin Slab,Arial,sans-serif;
+ font-family:Playlist Script,Playlist Script,Playlist Script;
  text-transform:uppercase
 }
 #footer h2 {
  font-size:80px;
- font-family:Great Vibes;
+ font-family:Playlist Script;
  margin-top:-5px;
  color:#fff;
  font-weight:400
 }
 #footer #withlove {
- font-family:great vibes;
+ font-family:Playlist Script;
  -ms-transform:rotate(-10deg);
  -webkit-transform:rotate(-10deg);
  transform:rotate(-10deg);
@@ -3396,13 +3396,13 @@ footer {
 #menu-header .menu-section-wraper h1 {
  font-size:35px;
  font-weight:400;
- font-family:Josefin Slab,Arial,sans-serif;
+ font-family:Glacial Indifference,Arial,sans-serif;
  text-transform:uppercase;
  color:#101010
 }
 #menu-header .menu-section-wraper h2 {
  font-size:65px;
- font-family:Great Vibes;
+ font-family:Playlist Script;
  margin-top:-5px;
  color:#101010;
  font-weight:400
@@ -3422,7 +3422,7 @@ footer {
  margin:40px 0 80px
 }
 .menu-title {
- font-family:Great Vibes;
+ font-family:Playlist Script;
  font-size:40px;
  font-weight:700;
  text-align:center;
@@ -3476,7 +3476,7 @@ i.fa.fa-circle-o {
  }
 }
 .hash {
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  font-size:25px;
  color:#fff;
  font-weight:400
@@ -3501,7 +3501,7 @@ i.fa.fa-circle-o {
  text-align:center;
  color:#fff;
  background:#505050;
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  font-size:14px
 }
 .wspBoton {
@@ -3516,7 +3516,7 @@ i.fa.fa-circle-o {
  width:80%;
  line-height:24px;
  margin-bottom:50px;
- font-family:montserrat;
+ font-family:Glacial Indifference;
  border-radius:15px;
  text-shadow:1px 1px 2px #331919
 }
@@ -3526,7 +3526,7 @@ i.fa.fa-circle-o {
 .frasesMax {
  color:#dadada;
  text-align:center;
- font-family:montserrat;
+ font-family:Glacial Indifference;
  font-size:18px;
  font-weight:100;
  margin-bottom:31px;
@@ -3536,7 +3536,7 @@ i.fa.fa-circle-o {
 .frasesMax2 {
  color:#101010;
  text-align:center;
- font-family:montserrat;
+ font-family:Glacial Indifference;
  font-size:18px;
  font-weight:100;
  margin-bottom:0;
@@ -3591,7 +3591,7 @@ i.fa.fa-circle-o {
  text-align:center;
  color:#fff;
  font-size:10px;
- font-family:montserrat;
+ font-family:Glacial Indifference;
  padding:9px;
  cursor:pointer;
  margin-left:24px;
@@ -3617,7 +3617,7 @@ i.fa.fa-circle-o {
  transform-origin:0 0;
  background-color:#000;
  letter-spacing:3px;
- font-family:montserrat;
+ font-family:Glacial Indifference;
  color:#fff;
  border-radius:3px 3px 0 0;
  padding:15px;
@@ -3630,12 +3630,12 @@ i.fa.fa-circle-o {
  color:WHITE;
  text-align:CENTER;
  padding:5px;
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  margin-top:-29px;
  font-size:12px
 }
 .smartBar select {
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  line-height:48px;
  padding:13px
 }
@@ -3673,7 +3673,7 @@ i.fa.fa-circle-o {
  font-size:13px;
  z-index:99999;
  position:fixed;
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  padding:10px;
  bottom:55%;
  left:0;
@@ -3730,7 +3730,7 @@ a:visited {
  transform-origin:0 0;
  background-color:#f69c9b;
  letter-spacing:3px;
- font-family:montserrat;
+ font-family:Glacial Indifference;
  color:#fff;
  border-radius:3px 3px 0 0;
  padding:15px;
@@ -3779,7 +3779,7 @@ a:visited {
  text-align:center;
  color:#fff;
  font-size:10px;
- font-family:montserrat;
+ font-family:Glacial Indifference;
  padding:9px;
  cursor:pointer;
  margin-left:24px;
@@ -3805,7 +3805,7 @@ a:visited {
  transform-origin:0 0;
  background-color:#f69c9b;
  letter-spacing:3px;
- font-family:montserrat;
+ font-family:Glacial Indifference;
  color:#fff;
  border-radius:3px 3px 0 0;
  padding:15px;
@@ -3818,12 +3818,12 @@ a:visited {
  color:WHITE;
  text-align:CENTER;
  padding:5px;
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  margin-top:-29px;
  font-size:12px
 }
 .smartBar2 select {
- font-family:Montserrat;
+ font-family:Glacial Indifference;
  line-height:48px;
  padding:13px
 }
